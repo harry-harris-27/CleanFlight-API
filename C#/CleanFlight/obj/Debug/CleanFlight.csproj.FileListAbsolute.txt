@@ -1,0 +1,6 @@
+c:\users\harry\documents\visual studio 2017\Projects\CleanFlight\CleanFlight\bin\Debug\CleanFlight.dll
+c:\users\harry\documents\visual studio 2017\Projects\CleanFlight\CleanFlight\bin\Debug\CleanFlight.pdb
+c:\users\harry\documents\visual studio 2017\Projects\CleanFlight\CleanFlight\obj\Debug\CleanFlight.dll
+c:\users\harry\documents\visual studio 2017\Projects\CleanFlight\CleanFlight\obj\Debug\CleanFlight.pdb
+C:\Users\harry\Documents\Visual Studio 2017\Projects\CleanFlight\CleanFlight\obj\Debug\CleanFlight.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\CleanFlight\CleanFlight\obj\Debug\CleanFlight.csproj.CoreCompileInputs.cache
